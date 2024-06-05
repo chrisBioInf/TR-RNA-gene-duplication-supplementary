@@ -262,42 +262,6 @@ def search_template(record, permutations, length, min_length=0, search_tata=Fals
 
     return []
 
-    '''
-                print(template_site, " at position %s - %s." % (start+seq_start, start+seq_end))
-                print('%s%s%s%s%s' % 
-                    (seq[:seq_start],
-                     colors_dict.get('RED', '\033[91m'),
-                     seq[seq_start:seq_end],
-                     colors_dict.get('END', '\033[0m'),
-                     seq[seq_end:]
-                    )
-                    )
-                motif_hit = True
-                template_site = ''
-    
-    
-        i += 1
-        j += 1
-
-    
-    if (motif_hit == True):
-        return_record = deepcopy(record)
-        if search_tata == False:
-            tata_end = 0
-            min_dist = 0
-            
-        else:
-            return_record.seq = record.seq[tata_end+min_dist:]
-        id_split = str(record.id).split('_')
-        if (len(id_split) < 5):
-            return_record.id = '_'.join([id_split[0], id_split[1], str(start+tata_end+min_dist), id_split[2], id_split[3]])
-        else:
-            return_record.id = '_'.join([id_split[0], id_split[1], str(start+tata_end+min_dist), id_split[3], id_split[4]])
-        return [return_record]
-
-    return []
-    '''
-
 
 def main():
     parser = OptionParser()
@@ -331,14 +295,11 @@ def main():
 
     motif_records = assemble_hits(motif_sites, options.bed_out)
     
-
-    '''
     if options.fasta != '':
         SeqIO.write(motif_sites, open(options.fasta, 'w'), format='fasta')
     
     if options.bed_out != '':
         write_bed(options.bed_out)
-    '''
 
 main()
 
