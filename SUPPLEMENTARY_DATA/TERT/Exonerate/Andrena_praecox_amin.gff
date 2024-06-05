@@ -1,0 +1,48 @@
+OZ010730.1      exonerate:protein2genome:local  gene    31385624        31390079        2527    -       .       gene_id 1 ; sequence translated_sequence ; gene_orientation + ; identity 67.56 ; similarity 80.53
+OZ010730.1      exonerate:protein2genome:local  cds     31390024        31390079        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31390024        31390079        .       -       .       insertions 0 ; deletions 0 ; identity 61.11 ; similarity 72.22
+OZ010730.1      exonerate:protein2genome:local  splice5 31390022        31390023        .       -       .       intron_id 1 ; splice_site "GT"
+OZ010730.1      exonerate:protein2genome:local  intron  31389931        31390023        .       -       .       intron_id 1
+OZ010730.1      exonerate:protein2genome:local  splice3 31389931        31389932        .       -       .       intron_id 0 ; splice_site "AG"
+OZ010730.1      exonerate:protein2genome:local  cds     31389737        31389930        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31389737        31389930        .       -       .       insertions 0 ; deletions 0 ; identity 67.19 ; similarity 75.00
+OZ010730.1      exonerate:protein2genome:local  splice5 31389735        31389736        .       -       .       intron_id 2 ; splice_site "GT"
+OZ010730.1      exonerate:protein2genome:local  intron  31389661        31389736        .       -       .       intron_id 2
+OZ010730.1      exonerate:protein2genome:local  splice3 31389661        31389662        .       -       .       intron_id 1 ; splice_site "AG"
+OZ010730.1      exonerate:protein2genome:local  cds     31389098        31389660        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31389098        31389660        .       -       .       insertions 0 ; deletions 1 ; identity 64.89 ; similarity 79.26
+OZ010730.1      exonerate:protein2genome:local  splice5 31389096        31389097        .       -       .       intron_id 3 ; splice_site "Gt"
+OZ010730.1      exonerate:protein2genome:local  intron  31388892        31389097        .       -       .       intron_id 3
+OZ010730.1      exonerate:protein2genome:local  splice3 31388892        31388893        .       -       .       intron_id 2 ; splice_site "AG"
+OZ010730.1      exonerate:protein2genome:local  cds     31388566        31388891        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31388566        31388891        .       -       .       insertions 0 ; deletions 0 ; identity 66.67 ; similarity 84.26
+OZ010730.1      exonerate:protein2genome:local  splice5 31388564        31388565        .       -       .       intron_id 4 ; splice_site "GT"
+OZ010730.1      exonerate:protein2genome:local  intron  31388483        31388565        .       -       .       intron_id 4
+OZ010730.1      exonerate:protein2genome:local  splice3 31388483        31388484        .       -       .       intron_id 3 ; splice_site "AT"
+OZ010730.1      exonerate:protein2genome:local  cds     31388286        31388482        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31388286        31388482        .       -       .       insertions 0 ; deletions 0 ; identity 56.92 ; similarity 73.85
+OZ010730.1      exonerate:protein2genome:local  splice5 31388284        31388285        .       -       .       intron_id 5 ; splice_site "GT"
+OZ010730.1      exonerate:protein2genome:local  intron  31388207        31388285        .       -       .       intron_id 5
+OZ010730.1      exonerate:protein2genome:local  splice3 31388207        31388208        .       -       .       intron_id 4 ; splice_site "AG"
+OZ010730.1      exonerate:protein2genome:local  cds     31387953        31388206        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31387953        31388206        .       -       .       insertions 0 ; deletions 0 ; identity 61.18 ; similarity 81.18
+OZ010730.1      exonerate:protein2genome:local  splice5 31387951        31387952        .       -       .       intron_id 6 ; splice_site "GT"
+OZ010730.1      exonerate:protein2genome:local  intron  31386666        31387952        .       -       .       intron_id 6
+OZ010730.1      exonerate:protein2genome:local  splice3 31386666        31386667        .       -       .       intron_id 5 ; splice_site "AG"
+OZ010730.1      exonerate:protein2genome:local  cds     31386472        31386665        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31386472        31386665        .       -       .       insertions 0 ; deletions 0 ; identity 76.56 ; similarity 84.38
+OZ010730.1      exonerate:protein2genome:local  splice5 31386470        31386471        .       -       .       intron_id 7 ; splice_site "GT"
+OZ010730.1      exonerate:protein2genome:local  intron  31386388        31386471        .       -       .       intron_id 7
+OZ010730.1      exonerate:protein2genome:local  splice3 31386388        31386389        .       -       .       intron_id 6 ; splice_site "AG"
+OZ010730.1      exonerate:protein2genome:local  cds     31386163        31386387        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31386163        31386387        .       -       .       insertions 0 ; deletions 0 ; identity 81.08 ; similarity 87.84
+OZ010730.1      exonerate:protein2genome:local  splice5 31386161        31386162        .       -       .       intron_id 8 ; splice_site "GT"
+OZ010730.1      exonerate:protein2genome:local  intron  31386086        31386162        .       -       .       intron_id 8
+OZ010730.1      exonerate:protein2genome:local  splice3 31386086        31386087        .       -       .       intron_id 7 ; splice_site "AG"
+OZ010730.1      exonerate:protein2genome:local  cds     31385835        31386085        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31385835        31386085        .       -       .       insertions 0 ; deletions 0 ; identity 73.49 ; similarity 83.13
+OZ010730.1      exonerate:protein2genome:local  splice5 31385833        31385834        .       -       .       intron_id 9 ; splice_site "gt"
+OZ010730.1      exonerate:protein2genome:local  intron  31385743        31385834        .       -       .       intron_id 9
+OZ010730.1      exonerate:protein2genome:local  splice3 31385743        31385744        .       -       .       intron_id 8 ; splice_site "AG"
+OZ010730.1      exonerate:protein2genome:local  cds     31385624        31385742        .       -       .
+OZ010730.1      exonerate:protein2genome:local  exon    31385624        31385742        .       -       .       insertions 0 ; deletions 0 ; identity 66.67 ; similarity 74.36

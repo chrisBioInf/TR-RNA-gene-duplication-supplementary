@@ -1,0 +1,6 @@
+psLayout version 3
+
+match	mis- 	rep. 	N's	Q gap	Q gap	T gap	T gap	strand	Q        	Q   	Q    	Q  	T        	T   	T    	T  	block	blockSizes 	qStarts	 tStarts
+     	match	match	   	count	bases	count	bases	      	name     	size	start	end	name     	size	start	end	count
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+114	3	0	0	4	10	5	17	+	TR_A	261	134	261	CM055678.1	47435167	35184161	35184295	7	4,10,28,20,17,20,18,	134,139,149,177,198,222,243,	35184161,35184165,35184177,35184210,35184232,35184255,35184277,

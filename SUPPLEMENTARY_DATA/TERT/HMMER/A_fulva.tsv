@@ -1,0 +1,3 @@
+Family id	Family Accession	Clan	Env. Start	Env. End	Ali. Start	Ali. End	Model Start	Model End	Bit Score	Ind. E-value	Cond. E-value	Description
+Telomerase_RBD	PF12009.11	-	217	340	221	339	5	133	51.73	1.0e-13	1.0e-17	Telomerase ribonucleoprotein complex - RNA binding domain
+RVT_1	PF00078.30	CL0027	490	634	510	634	104	222	38.51	9.3e-10	9.5e-14	Reverse transcriptase (RNA-dependent DNA polymerase)

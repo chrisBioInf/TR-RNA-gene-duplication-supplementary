@@ -1,0 +1,43 @@
+OV815489.1      exonerate:protein2genome:local  gene    16616492        16619602        2497    +       .       gene_id 1 ; sequence translated_sequence ; gene_orientation + ; identity 70.15 ; similarity 83.67
+OV815489.1      exonerate:protein2genome:local  cds     16616492        16616547        .       +       .
+OV815489.1      exonerate:protein2genome:local  exon    16616492        16616547        .       +       .       insertions 0 ; deletions 0 ; identity 83.33 ; similarity 88.89
+OV815489.1      exonerate:protein2genome:local  splice5 16616548        16616549        .       +       .       intron_id 1 ; splice_site "GT"
+OV815489.1      exonerate:protein2genome:local  intron  16616548        16616639        .       +       .       intron_id 1
+OV815489.1      exonerate:protein2genome:local  splice3 16616638        16616639        .       +       .       intron_id 0 ; splice_site "ag"
+OV815489.1      exonerate:protein2genome:local  cds     16616640        16616833        .       +       .
+OV815489.1      exonerate:protein2genome:local  exon    16616640        16616833        .       +       .       insertions 0 ; deletions 0 ; identity 65.62 ; similarity 78.12
+OV815489.1      exonerate:protein2genome:local  splice5 16616834        16616835        .       +       .       intron_id 2 ; splice_site "GT"
+OV815489.1      exonerate:protein2genome:local  intron  16616834        16616909        .       +       .       intron_id 2
+OV815489.1      exonerate:protein2genome:local  splice3 16616908        16616909        .       +       .       intron_id 1 ; splice_site "ag"
+OV815489.1      exonerate:protein2genome:local  cds     16616910        16617475        .       +       .
+OV815489.1      exonerate:protein2genome:local  exon    16616910        16617475        .       +       .       insertions 3 ; deletions 1 ; identity 68.62 ; similarity 82.45
+OV815489.1      exonerate:protein2genome:local  splice5 16617476        16617477        .       +       .       intron_id 3 ; splice_site "GT"
+OV815489.1      exonerate:protein2genome:local  intron  16617476        16617554        .       +       .       intron_id 3
+OV815489.1      exonerate:protein2genome:local  splice3 16617553        16617554        .       +       .       intron_id 2 ; splice_site "AG"
+OV815489.1      exonerate:protein2genome:local  cds     16617555        16617880        .       +       .
+OV815489.1      exonerate:protein2genome:local  exon    16617555        16617880        .       +       .       insertions 0 ; deletions 0 ; identity 72.22 ; similarity 84.26
+OV815489.1      exonerate:protein2genome:local  splice5 16617881        16617882        .       +       .       intron_id 4 ; splice_site "GT"
+OV815489.1      exonerate:protein2genome:local  intron  16617881        16617964        .       +       .       intron_id 4
+OV815489.1      exonerate:protein2genome:local  splice3 16617963        16617964        .       +       .       intron_id 3 ; splice_site "aT"
+OV815489.1      exonerate:protein2genome:local  cds     16617965        16618161        .       +       .
+OV815489.1      exonerate:protein2genome:local  exon    16617965        16618161        .       +       .       insertions 0 ; deletions 0 ; identity 67.69 ; similarity 81.54
+OV815489.1      exonerate:protein2genome:local  splice5 16618162        16618163        .       +       .       intron_id 5 ; splice_site "gt"
+OV815489.1      exonerate:protein2genome:local  intron  16618162        16618238        .       +       .       intron_id 5
+OV815489.1      exonerate:protein2genome:local  splice3 16618237        16618238        .       +       .       intron_id 4 ; splice_site "AG"
+OV815489.1      exonerate:protein2genome:local  cds     16618239        16618492        .       +       .
+OV815489.1      exonerate:protein2genome:local  exon    16618239        16618492        .       +       .       insertions 0 ; deletions 0 ; identity 62.35 ; similarity 81.18
+OV815489.1      exonerate:protein2genome:local  splice5 16618493        16618494        .       +       .       intron_id 6 ; splice_site "GT"
+OV815489.1      exonerate:protein2genome:local  intron  16618493        16618768        .       +       .       intron_id 6
+OV815489.1      exonerate:protein2genome:local  splice3 16618767        16618768        .       +       .       intron_id 5 ; splice_site "AG"
+OV815489.1      exonerate:protein2genome:local  cds     16618769        16618962        .       +       .
+OV815489.1      exonerate:protein2genome:local  exon    16618769        16618962        .       +       .       insertions 0 ; deletions 0 ; identity 73.44 ; similarity 85.94
+OV815489.1      exonerate:protein2genome:local  splice5 16618963        16618964        .       +       .       intron_id 7 ; splice_site "GT"
+OV815489.1      exonerate:protein2genome:local  intron  16618963        16619046        .       +       .       intron_id 7
+OV815489.1      exonerate:protein2genome:local  splice3 16619045        16619046        .       +       .       intron_id 6 ; splice_site "AG"
+OV815489.1      exonerate:protein2genome:local  cds     16619047        16619271        .       +       .
+OV815489.1      exonerate:protein2genome:local  exon    16619047        16619271        .       +       .       insertions 0 ; deletions 0 ; identity 74.32 ; similarity 87.84
+OV815489.1      exonerate:protein2genome:local  splice5 16619272        16619273        .       +       .       intron_id 8 ; splice_site "GT"
+OV815489.1      exonerate:protein2genome:local  intron  16619272        16619352        .       +       .       intron_id 8
+OV815489.1      exonerate:protein2genome:local  splice3 16619351        16619352        .       +       .       intron_id 7 ; splice_site "AG"
+OV815489.1      exonerate:protein2genome:local  cds     16619353        16619602        .       +       .
+OV815489.1      exonerate:protein2genome:local  exon    16619353        16619602        .       +       .       insertions 0 ; deletions 0 ; identity 75.90 ; similarity 87.95

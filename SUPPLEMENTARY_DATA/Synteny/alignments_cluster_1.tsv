@@ -1,0 +1,8 @@
+# species1 chromo1 start1 end1 species2 chromo2 start2 end orientation score score_against_rest_species2_genome score_against_rest_species1_genome
+Andrena_hattorfiana	OX122893.2	1195287	1195578	Andrena_chrysosceles	OY979769.1	13495453	13495744	forward	435.0	0	0
+Andrena_hattorfiana	OX122893.2	1191226	1193075	Andrena_chrysosceles	OY979769.1	13488703	13490586	forward	2551.0	0	0
+Andrena_chrysosceles	OY979769.1	13488002	13488252	Andrena_hattorfiana	OX122893.2	1189050	1189300	forward	436.0	0	0
+Andrena_hattorfiana	OX122893.2	1196201	1197746	Andrena_chrysosceles	OY979769.1	13496355	13497890	forward	2165.0	0	0
+Andrena_chrysosceles	OY979769.1	13498955	13501602	Andrena_hattorfiana	OX122893.2	1200010	1202668	forward	3698.0	0	0
+Andrena_chrysosceles	OY979769.1	13502414	13502712	Andrena_hattorfiana	OX122893.2	1203450	1203749	forward	475.0	130.0	0
+Andrena_hattorfiana	OX122893.2	1212000	1217099	Andrena_chrysosceles	OY979769.1	13511553	13516652	forward	7712.0	0	2036.0
