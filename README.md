@@ -25,6 +25,7 @@ __`found motif_search_sequences_Adorsata.py in subdirectory but description is m
 
 # Tandem_Repeats/
 
+__`Ideally do not use TR for Tandem Repeats to avoid confusion`__
 $ parse_TR_results.py
 
 Parses result data from tandem-repeats-finder (https://tandem.bu.edu/trf/trf.html) and 
