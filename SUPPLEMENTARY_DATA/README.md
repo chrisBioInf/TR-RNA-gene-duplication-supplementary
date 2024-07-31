@@ -1,20 +1,22 @@
+Supplementary and raw result data grouped into sub-directories.
 
+__`don't use TR for Tandem Repeat to avoid confusion`__
 
-###### Table_S1.xlsx ################
+# Table_S1.xlsx
 
 A table summing up potential matches between overrepresented tandem
-repeats discovered in raw DNAseq data and predicted TR RNAs.
+repeats, discovered in raw DNAseq data, and predicted telomerase RNAs (TRs).
 This table primarily serves as a basis for Table 1 in the manuscript.
 In principal, every row in the table represents one potential case of 
 a tandem repeat matching with a hypothetical template in a predicted 
-TR RNA, i.e. multiple rows for one TR RNA in almost all cases. 
+TR, i.e. multiple rows for one TR in almost all cases.
 
 Columns are explained as follows:
 
 Species:
 Name of the species in which the hit was obtained.
 
-TR:
+__`TR:`__
 The overrepresented tandem repeat.
 
 Template:
@@ -46,33 +48,36 @@ Distance between template start and end.
 
 Alignment start:
 Relative position of the putative template within the 
-alignment of all predicted TR RNAs in this species. This 
+alignment of all predicted TRs in this species. This 
 serves to rule out particularly unlikely templates, as 
 they are not expected to appear at the terminal ends of
-a given TR RNA. 
+a given TR. 
 
 Alignment end:
 Relative position of the putative template within the
-alignment of all predicted TR RNAs in this species.
+alignment of all predicted TRs in this species.
 
 Reference start:
 Position of this template in an alignment with the TR
-RNA predicted by Fajkus et al. in Andrena dorsata. 
+predicted by Fajkus et al. in _Andrena dorsata_. 
 
 Reference end:
 Position of this template in an alignment with the TR
-RNA predicted by Fajkus et al. in Andrena dorsata.
+predicted by Fajkus et al. in _Andrena dorsata_.
 
 Frequency:
 Log10 frequency of the corresponding tandem repeat in 
 DNAseq data.
 
 Cluster:
-Assigned syntenic cluster, if any (1=A, 2=B, etc.).
+Assigned syntenic cluster, if any (1=I, 2=II, etc.).
 
 
 
-####### TR_RNA_genes ##################
+# TR_RNA_genes/
+
+__`would rename the direcory`__
+
 
 The folder TR_RNA_genes contains predicted TR RNA genes and their genomic
 locations. Sequences and alignments are also contained in subfolders.
