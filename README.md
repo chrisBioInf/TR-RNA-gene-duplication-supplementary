@@ -1,8 +1,8 @@
 # Telomerase RNA (TR) gene duplication by Klapproth et al. - Online Supplemental
 
-In-house scripts for various data processing tasks in Andrena TR annotation as well as supplementary and raw result data grouped into subdirectories Data_Processing/  Motif_search/ and Tandem_Repeats/ and SUPPLEMENTARY_DATA/, respectively.
+In-house scripts for various data processing tasks in Andrena TR annotation as well as supplementary and raw result data grouped into sub-directories Data_Processing/  Motif_search/ and Tandem_Repeats/ and SUPPLEMENTARY_DATA/, respectively.
 
-# Motif_search/
+## Motif_search/
 
 $ template_searcher.py
 
@@ -12,9 +12,9 @@ TATA box-like promoter regions. Findings are reported in tab-separated format.
 
 $ search_motif_in_genome.py
 
-Searches for the occurence of a given sequence motif in whole genomes (fasta format) and reports individual
+Searches for the occurrence of a given sequence motif in whole genomes (fasta format) and reports individual
 locations. 
-Useful for anaylzing spatial clustering of sequence repeats.
+Useful for analyzing spatial clustering of sequence repeats.
 
 $ get_transcripts.py
 
@@ -23,9 +23,10 @@ bedtools getfasta.
 
 __`found motif_search_sequences_Adorsata.py in subdirectory but description is missing`__
 
-# Tandem_Repeats/
+## Tandem_Repeats/
 
 __`Ideally do not use TR for Tandem Repeats to avoid confusion`__
+
 $ parse_TR_results.py
 
 Parses result data from tandem-repeats-finder (https://tandem.bu.edu/trf/trf.html) and 
@@ -34,13 +35,13 @@ candidates in a tab-separated format.
 
 $ eval_tandem_repeats.py
 
-Evaluates data obtained from the previous script and candidate telomere sequences and cross-comapares
+Evaluates data obtained from the previous script and candidate telomere sequences and cross-compares
 them for matches between candidates and DNAseq tandem repeats.
-Candidate TRs are currently hardcoded and will have to be changed in the script (currently
+Candidate TRs are currently hard-coded and will have to be changed in the script (currently
 set to our Andrena dorsata candidates as an example).
 
 
-# Data_Processing
+## Data_Processing
 
 $ fasterq_download.sh
 
@@ -50,6 +51,12 @@ downloads all corresponding GenBank-Accessions.
 $ unpack_genomes.py
 
 Parses and unpacks NCBI-downloaded genome data, also renames .fna files to the species name for 
-easier accessability. 
+easier accessibility. 
 
-__`found blat_TR_sequences.sh in subdirectory but description is missing`__
+__`found blat_TR_sequences.sh in sub-directory but description is missing`__
+
+## How to cite
+
+Christopher Klapproth, Elisa Israel, Karl Käther, Julian J-L Chen, Sonja Prohaska, Peter
+F. Stadler, Sven Findeiß. “Telomerase RNA gene duplications drive telomeric
+repeat diversity and evolution in Andrena bees”, in preparation.
