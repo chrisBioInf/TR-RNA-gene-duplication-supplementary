@@ -1,4 +1,4 @@
-# Telomerase RNA (TR) gene duplication -- Online Supplemental
+# Telomerase RNA (TR) gene duplication by Klapproth et al. - Online Supplemental
 
 In-house scripts for various data processing tasks in Andrena TR annotation as well as supplementary and raw result data grouped into subdirectories Data_Processing/  Motif_search/ and Tandem_Repeats/ and SUPPLEMENTARY_DATA/, respectively.
 
