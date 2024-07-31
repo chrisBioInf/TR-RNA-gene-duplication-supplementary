@@ -21,7 +21,7 @@ $ get_transcripts.py
 Creates RNA sequences from DNA sequences in fasta format, for example obtained using
 bedtools getfasta.
 
-__`found motif_search_sequences_Adorsata.py in subdirectory but description is missing`__
+<p style="color:red">found motif_search_sequences_Adorsata.py in subdirectory but description is missing</p>
 
 # Tandem_Repeats/
 
@@ -51,4 +51,4 @@ $ unpack_genomes.py
 Parses and unpacks NCBI-downloaded genome data, also renames .fna files to the species name for 
 easier accessability. 
 
-__`found blat_TR_sequences.sh in subdirectory but description is missing`__
+<p style="color:red">found blat_TR_sequences.sh in subdirectory but description is missing</p>
