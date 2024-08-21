@@ -1,7 +1,5 @@
 Supplementary and raw result data grouped into sub-directories.
 
-__`don't use TR for Tandem Repeat to avoid confusion`__
-
 ## Table_S1.xlsx
 
 A table summing up potential matches between overrepresented tandem
