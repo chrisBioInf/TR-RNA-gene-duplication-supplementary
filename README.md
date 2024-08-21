@@ -25,9 +25,7 @@ __`found motif_search_sequences_Adorsata.py in subdirectory but description is m
 
 ## Tandem_Repeats/
 
-__`Ideally do not use TR for Tandem Repeats to avoid confusion`__
-
-$ parse_TR_results.py
+$ parse_trf_results.py
 
 Parses result data from tandem-repeats-finder (https://tandem.bu.edu/trf/trf.html) and 
 tandem-repeats-merger (https://github.com/zdenkas/tandem-repeats-merger) and reports telomeric repeat
@@ -37,7 +35,7 @@ $ eval_tandem_repeats.py
 
 Evaluates data obtained from the previous script and candidate telomere sequences and cross-compares
 them for matches between candidates and DNAseq tandem repeats.
-Candidate TRs are currently hard-coded and will have to be changed in the script (currently
+Candidate tandem repeats are currently hard-coded and will have to be changed in the script (currently
 set to our Andrena dorsata candidates as an example).
 
 
