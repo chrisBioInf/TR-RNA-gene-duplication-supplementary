@@ -16,7 +16,7 @@ Columns are explained as follows:
 Species:
 Name of the species in which the hit was obtained.
 
-__`TR:`__
+Tandem Repeat:
 The overrepresented tandem repeat.
 
 Template:
@@ -76,10 +76,7 @@ Assigned syntenic cluster, if any (1=I, 2=II, etc.).
 
 ## TR_RNA_genes/
 
-__`would rename the directory; needs to be propagated through the README.md text`__
-
-
-The folder __`TR_RNA_genes`__ contains predicted telomerase RNA genes and their genomic
+The folder TR_RNA_genes/ contains predicted telomerase RNA genes and their genomic
 locations. Sequences and alignments are also contained in sub-directories.
 
 
