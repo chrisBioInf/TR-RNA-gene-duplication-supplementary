@@ -78,6 +78,7 @@ The folder TR_RNA_genes/ contains predicted telomerase RNA genes and their genom
 locations. Sequences and alignments are also contained in sub-directories.
 
 
+
 ### TR_RNA_genes/Sequences/
 All predicted TRs in 12 Andrena species in FASTA format without any
 particular order.
@@ -90,18 +91,25 @@ each species as well as a full alignment of all 42 TR candidates
 ### TR_RNA_genes/Bed/
 Genomic locations of predicted genes in BED format.
 
+__'bed file for A. dorsata is missing'__
+
 ### TR_RNA_genes/TATA_box/
 Genomic locations of predicted TATA box motifs for each
 TR gene.
+
+__'bed file for A. dorsata is missing'__
 
 ### TR_RNA_genes/A_dorsata_reference_BLAT/
 Raw BLAT hits obtained using the _Andrena dorsata_
 telomerase RNA predicted by Fajkus et al. as a reference. 
 
+__'contains psl, bed and fa files'__
+
 ### TR_RNA_genes/A_minutula_reference_BLAT/
 Raw BLAT hits obtained using the _Andrena minutula_
 telomerase RNA predicted by Fajkus et al. as a reference.
 
+__'compared to A_dorsata_reference_BLAT/ bed and fa files are missing'__
 
 ## TERT/
 
@@ -137,7 +145,7 @@ identify missing Exons based on Exonerate annotations.
 Abundance of tandem repeats in DNAseq data initially 
 predicted with tandem-repeats-finder (https://tandem.bu.edu/trf/trf.html). 
 
-### Tandem_repeats/TR_abundance/
+### Tandem_repeats/Tandem_repeat_abundance/
 
 Tandem repeat abundance as log10 frequencies in tab-separated files
 per species. Files are sorted by frequency and redundant entries are
