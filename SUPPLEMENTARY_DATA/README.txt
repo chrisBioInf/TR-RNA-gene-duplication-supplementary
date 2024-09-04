@@ -106,31 +106,27 @@ TR RNA predicted by Fajkus et al. as a reference.
 ####### TERT #########################
 
 This folder contains predicted TERT genes and their assumed exon boundaries.
-We provide their full amino acid sequences, genomic locations, domains 
-predicted with HMMER as well as BLAST and
-Exonerate hits.
+We provide their full amino acid sequences, genomic locations and domains 
+predicted with HMMER.
 
 
-# TERT/Fasta 
-Sequences of translated Andrena TERT genes predicted by us. 
+# TERT/Sequences
+Sequences of Andrena TERT genes and translated amino acid sequences predicted by us. 
 
-# TERT/Alignment
-CLUSTAL2 alignment of predicted TERT proteins.
+# TERT/Coordinates
+Location of Andrena TERT genes in BED format. Corresponding Genome accessions 
+can be found in the supplementary Table S
 
 # TERT/HMMER
 Raw results of searching our predicted sequences against
-the Pfam data base using HMMER.
+the Pfam data base using HMMER. Provided are predicted boundaries of 
+RVT and RT domains.
 
-# TERT/Exonerate
-Raw Exonerate hits per species before post-processing. 
-The results obtained here served as the initial starting
-point of TERT gene annotation before refinement in
-conjunction with BLAST.
-
-# TERT/BLAST
-Raw BLAST hits per species before post-processing.
-BLAST hits were used to refine exon boundaries and 
-identify missing Exons based on Exonerate annotations.
+# TERT/A_haemorrhoa_reference
+Transcribed RNA of Andrena haemorrhoa that we used to location and  
+boundaries for predicted TERT gene. The gene sequence as well as the 
+transcribed RNA is provided. Furthermore, the .psl Alignment generated
+with BLAT was used to compare exon boundaries.
 
 
 ####### Tandem_repeats ################

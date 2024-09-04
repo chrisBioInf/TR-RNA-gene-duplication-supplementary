@@ -1,0 +1,15 @@
+psLayout version 3
+
+match	mis- 	rep. 	N's	Q gap	Q gap	T gap	T gap	strand	Q        	Q   	Q    	Q  	T        	T   	T    	T  	block	blockSizes 	qStarts	 tStarts
+     	match	match	   	count	bases	count	bases	      	name     	size	start	end	name     	size	start	end	count
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+54	0	0	0	0	0	0	0	+	Andrena.fulva_exon0_Andrena_haemorrhoa_1445_1499_initial	54	0	54	GHFU01005783.1	2578	79	133	1	54,	0,	79,
+197	1	0	0	1	1	0	0	+	Andrena.fulva_exon1_Andrena_haemorrhoa_1593_1800_initial	207	0	199	GHFU01005783.1	2578	136	334	2	194,4,	0,195,	136,330,
+561	0	0	0	0	0	0	0	+	Andrena.fulva_exon2_Andrena_haemorrhoa_1864_2425_initial	561	0	561	GHFU01005783.1	2578	331	892	1	561,	0,	331,
+324	0	0	0	0	0	0	0	+	Andrena.fulva_exon3_Andrena_haemorrhoa_2505_2829_initial	324	0	324	GHFU01005783.1	2578	892	1216	1	324,	0,	892,
+192	0	0	0	0	0	0	0	+	Andrena.fulva_exon4_Andrena_haemorrhoa_2917_3109_initial	192	0	192	GHFU01005783.1	2578	1219	1411	1	192,	0,	1219,
+252	0	0	0	0	0	0	0	+	Andrena.fulva_exon5_Andrena_haemorrhoa_3191_3443_initial	252	0	252	GHFU01005783.1	2578	1414	1666	1	252,	0,	1414,
+192	0	0	0	0	0	0	0	+	Andrena.fulva_exon6_Andrena_haemorrhoa_3710_3902_initial	192	0	192	GHFU01005783.1	2578	1666	1858	1	192,	0,	1666,
+222	0	0	0	0	0	0	0	+	Andrena.fulva_exon7_Andrena_haemorrhoa_3989_4211_initial	222	0	222	GHFU01005783.1	2578	1861	2083	1	222,	0,	1861,
+249	0	0	0	0	0	0	0	+	Andrena.fulva_exon8_Andrena_haemorrhoa_4291_4540_initial	249	0	249	GHFU01005783.1	2578	2086	2335	1	249,	0,	2086,
+144	0	0	0	0	0	0	0	+	Andrena.fulva_exon9_Andrena_haemorrhoa_4629_4773_initial	144	0	144	GHFU01005783.1	2578	2338	2482	1	144,	0,	2338,
