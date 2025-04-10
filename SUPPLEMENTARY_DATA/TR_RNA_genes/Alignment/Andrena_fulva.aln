@@ -1,58 +1,51 @@
 CLUSTAL 2.1 multiple sequence alignment
 
 
-OX276327.1_12954670-12954867_-      --------------------------------------------------
-OX276330.1_45138756-45139007_-      TCTCGTTGGTTGTTGTAACATGAAGGTTTCATATATAAGGAGTCGTAACG
-OX276330.1_45118219-45118470_+      -----------------------------------------------ACG
-OX276330.1_47428866-47429125_+      -----------------------------------------------ACG
-OX276327.1_54144860-54145118_-      --------------------------------------------------
-                                                                                      
+AfulTR-1        ------------------------------------------------------------
+AfulTR-4        TCTCGTTGGTTGTTGTAACATGAAGGTTTCATATATAAGGAGTCGTAACGAAAGCTTAAA
+AfulTR-3        -----------------------------------------------ACGAAAGCTTAAA
+AfulTR-5        -----------------------------------------------ACGAAAGGTTAAA
+AfulTR-2        ------------------------------------------------------------
+                                                                            
 
-OX276327.1_12954670-12954867_-      ---------------GGGTTTATGAGTGGGCACGACGGTACCGTCACGGT
-OX276330.1_45138756-45139007_-      AAAGCTTAAAGTAGCGGGTTTATGAGTGG-CACGACGGTACCGTCACGGT
-OX276330.1_45118219-45118470_+      AAAGCTTAAAGTAGCGGGTTTATGAGTGG-CACGACGATACCGTCACGGT
-OX276330.1_47428866-47429125_+      AAAGGTTAAAGTAGCGGGTTTATGAGTGG-CACGACGATACCGTCACGGT
-OX276327.1_54144860-54145118_-      --------------------------------------------------
-                                                                                      
+AfulTR-1        -----GGGTTTATGAGTGGGCACGACGGTACCGTCACGGTATACAAGCGTGTCGTGGAAA
+AfulTR-4        GTAGCGGGTTTATGAGTGG-CACGACGGTACCGTCACGGTATTCAGGCGTGTCGTGGAAA
+AfulTR-3        GTAGCGGGTTTATGAGTGG-CACGACGATACCGTCACGGTATACAAGCGTGTCGTGGAAA
+AfulTR-5        GTAGCGGGTTTATGAGTGG-CACGACGATACCGTCACGGTATACAAGCGTGTCGTGGAAA
+AfulTR-2        -----------------------------------------------------------A
+                                                                           *
 
-OX276327.1_12954670-12954867_-      ATACAAGCGTGTCGTGGAAACCCAG--AAAAAACCTAACAT-ATATATAT
-OX276330.1_45138756-45139007_-      ATTCAGGCGTGTCGTGGAAACTCAGCAAAAAAATCAGAAATCATATATAT
-OX276330.1_45118219-45118470_+      ATACAAGCGTGTCGTGGAAAACCAG--AAGAAACTAT------CATATAT
-OX276330.1_47428866-47429125_+      ATACAAGCGTGTCGTGGAAAACCAG--AAAAAACTAT------CATATAT
-OX276327.1_54144860-54145118_-      -------------------ACCCAG-AAATAACCCAGACATCATATATAT
-                                                       *  ***  ** **            ******
+AfulTR-1        CCCAG--AAAAAACCTAACAT-ATATATATGAACCTGAGAATTCTC--AGTTTGTATAAA
+AfulTR-4        CTCAGCAAAAAAATCAGAAATCATATATATGAAC-TGAGAATTCTC--AGTTTGTATAAA
+AfulTR-3        ACCAG--AAGAAACTAT------CATATATGAAC-TGAGAATTCTCTCAGTTTGTATAAA
+AfulTR-5        ACCAG--AAAAAACTAT------CATATATGAAC-TGAGAATTCTC--AGTTTGTATAAA
+AfulTR-2        CCCAG-AAATAACCCAGACATCATATATATGAAC-TGAGAATTTAAT-TCTCATCATATA
+                  ***  ** **            ********** ********       *    *** *
 
-OX276327.1_12954670-12954867_-      GAACCTGAGAATTCTC--AGTTTGTATAAAATTGGTTTGTTCGCCCTTCT
-OX276330.1_45138756-45139007_-      GAAC-TGAGAATTCTC--AGTTTGTATAAAATTGGTTTGTTCGCCCTTCT
-OX276330.1_45118219-45118470_+      GAAC-TGAGAATTCTCTCAGTTTGTATAAAATTGGTTTGTTCGCCCTTCT
-OX276330.1_47428866-47429125_+      GAAC-TGAGAATTCTC--AGTTTGTATAAAATTGGTTTGTTCGCCCTTCT
-OX276327.1_54144860-54145118_-      GAAC-TGAGAATTTAAT-TCTCATCATATACTTGGTTTGTTCGCACTTCT
-                                    **** ********       *    *** * ************* *****
+AfulTR-1        ATTGGTTTGTTCGCCCTTCTTCCAATCAAAAATGAAAG-TGTATTCTCATAAACCCTTTC
+AfulTR-4        ATTGGTTTGTTCGCCCTTCTTCCAATCAAAAATGAAAG-TGTATTCTCATAAACCCCTTC
+AfulTR-3        ATTGGTTTGTTCGCCCTTCTTCCAATTAAAAATGAAAG-TGTATTCTCATAAACCCCTTC
+AfulTR-5        ATTGGTTTGTTCGCCCTTCTTCCAATCAAAAATGAAAGGTGTATTCTCATAAACCCCTTC
+AfulTR-2        CTTGGTTTGTTCGCACTTCTTCCAATCAAAAATGAAAG-TGTATTCTCATAAACCCCTTC
+                 ************* *********** *********** ***************** ***
 
-OX276327.1_12954670-12954867_-      TCCAATCAAAAATGAAAG-TGTATTCTCATAAACCCTTTCTTTTTGAAGT
-OX276330.1_45138756-45139007_-      TCCAATCAAAAATGAAAG-TGTATTCTCATAAACCCCTTCTTTTTGTAGT
-OX276330.1_45118219-45118470_+      TCCAATTAAAAATGAAAG-TGTATTCTCATAAACCCCTTCTTTTTGAAGT
-OX276330.1_47428866-47429125_+      TCCAATCAAAAATGAAAGGTGTATTCTCATAAACCCCTTCTTTTTGAAGT
-OX276327.1_54144860-54145118_-      TCCAATCAAAAATGAAAG-TGTATTCTCATAAACCCCTTCTTTTTGATGG
-                                    ****** *********** ***************** *********  * 
+AfulTR-1        TTTTTGAAGTCCGATATATATCAAAAAA--------------------------------
+AfulTR-4        TTTTTGTAGTCCGATA--------------------------------------------
+AfulTR-3        TTTTTGAAGTCCGATATACGTATATAAAAAAAATTTATGTTAAACGATTTTATAAAAAAT
+AfulTR-5        TTTTTGAAGTCCGATATAGGTATATAAAAAAAATTTATGTTAAACGATTTTATAAAAAAT
+AfulTR-2        TTTTTGATGGCCGATATA----TATAAAAAAAATTTATGTTAAACGATTTTATTAAAAAT
+                ******  * ******                                            
 
-OX276327.1_12954670-12954867_-      CCGATATATATCAAAAAA--------------------------------
-OX276330.1_45138756-45139007_-      CCGATA--------------------------------------------
-OX276330.1_45118219-45118470_+      CCGATATACGTATATAAAAAAAATTTATGTTAAACGATTTTATAAAAAAT
-OX276330.1_47428866-47429125_+      CCGATATAGGTATATAAAAAAAATTTATGTTAAACGATTTTATAAAAAAT
-OX276327.1_54144860-54145118_-      CCGATATA----TATAAAAAAAATTTATGTTAAACGATTTTATTAAAAAT
-                                    ******                                            
+AfulTR-1        ------------------------------------------------------------
+AfulTR-4        ------------------------------------------------------------
+AfulTR-3        GCACTATAA---------------------------------------------------
+AfulTR-5        GCACTATAAAAACTAAAA------------------------------------------
+AfulTR-2        GCACTATAAAAACTAAAAAATAATTCTTTTTTTGGACTACAAATTCCATGGTGTTTTCTC
+                                                                            
 
-OX276327.1_12954670-12954867_-      --------------------------------------------------
-OX276330.1_45138756-45139007_-      --------------------------------------------------
-OX276330.1_45118219-45118470_+      GCACTATAA-----------------------------------------
-OX276330.1_47428866-47429125_+      GCACTATAAAAACTAAAA--------------------------------
-OX276327.1_54144860-54145118_-      GCACTATAAAAACTAAAAAATAATTCTTTTTTTGGACTACAAATTCCATG
-                                                                                      
-
-OX276327.1_12954670-12954867_-      -----------------------------------
-OX276330.1_45138756-45139007_-      -----------------------------------
-OX276330.1_45118219-45118470_+      -----------------------------------
-OX276330.1_47428866-47429125_+      -----------------------------------
-OX276327.1_54144860-54145118_-      GTGTTTTCTCACTTTAAATAAAATCGTGCAGCGGG
-                                                                       
+AfulTR-1        -------------------------
+AfulTR-4        -------------------------
+AfulTR-3        -------------------------
+AfulTR-5        -------------------------
+AfulTR-2        ACTTTAAATAAAATCGTGCAGCGGG
+                                         

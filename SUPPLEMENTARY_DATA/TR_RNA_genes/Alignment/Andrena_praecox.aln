@@ -1,58 +1,51 @@
 CLUSTAL 2.1 multiple sequence alignment
 
 
-OZ010728.1_14426988-14427234_-      TTCTCGTTGGTTGTTGTAACATGAAGGTTTCATATATAAGGAGTCGTAAC
-OZ010733.1_44060036-44060285_-      --------GGTTGTTGTAACATGAAGGTTTCATATATAAGGAGTCGTAAC
-OZ010728.1_33437344-33437601_-      -TCTCGTTGGTTGTTGTAACATGAAGGTTTCATATATAAGGAGTCGTAAC
-OZ010732.1_657101-657322_+_         --------------------------------------------------
-OZ010728.1_62124855-62125115_-      --------------------------------------------------
-                                                                                      
+ApraTR-1        TTCTCGTTGGTTGTTGTAACATGAAGGTTTCATATATAAGGAGTCGTAACAAAAGCTTAA
+ApraTR-5        --------GGTTGTTGTAACATGAAGGTTTCATATATAAGGAGTCGTAACGAAAGCTTAA
+ApraTR-2        -TCTCGTTGGTTGTTGTAACATGAAGGTTTCATATATAAGGAGTCGTAACGAAAGCTTAA
+ApraTR-4        ----------------------------------------------------AAGCTTTA
+ApraTR-3        ------------------------------------------------------------
+                                                                            
 
-OZ010728.1_14426988-14427234_-      AAAAGCTTAAACCAGCGGGTTTATGAGTGGGCACGACGGTACCGTCACGG
-OZ010733.1_44060036-44060285_-      GAAAGCTTAAAGTAGCGGGTTTATGAGTGG-CACGACGGTACCGTCACGG
-OZ010728.1_33437344-33437601_-      GAAAGCTTAAAGTAGCGGGTTTATGAGTGG-CACGACGGTACCGTCACGG
-OZ010732.1_657101-657322_+_         --AAGCTTTAAGTAGCGGGTTTATGAGTGG-CACGACGGTACCGTCACGG
-OZ010728.1_62124855-62125115_-      --------------------------------------------------
-                                                                                      
+ApraTR-1        ACCAGCGGGTTTATGAGTGGGCACGACGGTACCGTCACGGTATACAAGCGTGT--CGTGG
+ApraTR-5        AGTAGCGGGTTTATGAGTGG-CACGACGGTACCGTCACGGTATACAAGCGTGC--CGTGG
+ApraTR-2        AGTAGCGGGTTTATGAGTGG-CACGACGGTACCGTCACGGTATACAAGCGTGT--CGTGG
+ApraTR-4        AGTAGCGGGTTTATGAGTGG-CACGACGGTACCGTCACGGTATACAAGCGTGTGTTGTGG
+ApraTR-3        ------------------------------------------------------------
+                                                                            
 
-OZ010728.1_14426988-14427234_-      TATACAAGCGTGT--CGTGGAAA----CCCAGAAAAAACCTA----ACAT
-OZ010733.1_44060036-44060285_-      TATACAAGCGTGC--CGTGGAAAAAAACCTTAGAAAAAACTA----TCAT
-OZ010728.1_33437344-33437601_-      TATACAAGCGTGT--CGTGGAAA----CCCAGACATAACCCAGAAATCAT
-OZ010732.1_657101-657322_+_         TATACAAGCGTGTGTTGTGGAAA-----CCAGAAAAAACCAG---ATCAT
-OZ010728.1_62124855-62125115_-      ---------------------------------CATAACTCAGACATCAT
-                                                                      * **         ***
+ApraTR-1        AAA----CCCAGAAAAAACCTA----ACATATATATGAACTGAGAATTCTCAGTTTGT-A
+ApraTR-5        AAAAAAACCTTAGAAAAAACTA----TCATA-ATATGAACTGAGAATTCTCAGTTTGT-A
+ApraTR-2        AAA----CCCAGACATAACCCAGAAATCATATATATGAACTGAGAATTTAATTCTCATCA
+ApraTR-4        AAA-----CCAGAAAAAACCAG---ATCATATATATGAACTGAGAATTTAATTCTCATCA
+ApraTR-3        -------------CATAACTCAGACATCATGTATATGAACTGAGAATTTAATTCTCGTCA
+                              * **         ***  ****************      *  * *
 
-OZ010728.1_14426988-14427234_-      ATATATGAACTGAGAATTCTCAGTTTGT-ATAAAATTGGTTTGTTCGCCC
-OZ010733.1_44060036-44060285_-      A-ATATGAACTGAGAATTCTCAGTTTGT-ATAAAATTGGTTTGTTCGCCC
-OZ010728.1_33437344-33437601_-      ATATATGAACTGAGAATTTAATTCTCATCATATACTTGGTTTGTTCGCAC
-OZ010732.1_657101-657322_+_         ATATATGAACTGAGAATTTAATTCTCATCATATACTTGGTTTGTTCGCAC
-OZ010728.1_62124855-62125115_-      GTATATGAACTGAGAATTTAATTCTCGTCATATACTTGGTTTGTTCGCAC
-                                      ****************      *  * *** * ************* *
+ApraTR-1        TAAAATTGGTTTGTTCGCCCTTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCT
+ApraTR-5        TAAAATTGGTTTGTTCGCCCTTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCC
+ApraTR-2        TATACTTGGTTTGTTCGCACTTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCC
+ApraTR-4        TATACTTGGTTTGTTCGCACTTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCC
+ApraTR-3        TATACTTGGTTTGTTCGCACTTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCC
+                ** * ************* **************************************** 
 
-OZ010728.1_14426988-14427234_-      TTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCTTTCTTTTTGA
-OZ010733.1_44060036-44060285_-      TTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCCTTCTTTTTGA
-OZ010728.1_33437344-33437601_-      TTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCCTTCTTTTTGA
-OZ010732.1_657101-657322_+_         TTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCCTTCTTTTTGA
-OZ010728.1_62124855-62125115_-      TTCTTCCAATCAAAAATGAAAGTGTATTCTCATAAACCCCTTCTTTTTGA
-                                    *************************************** **********
+ApraTR-1        TTCTTTTTGAAGT--CCGA-----------------------------------------
+ApraTR-5        TTCTTTTTGAAGT--CCGATATATATAA--------------------------------
+ApraTR-2        TTCTTTTTGAAGT--CCGATATATATA---------------------------------
+ApraTR-4        TTCTTTTTGAAGTGTCCGATATATATAAAAAAAATTTATGTT------------------
+ApraTR-3        TTCTTTTTGAAGT--CCGATATATATAAAAAAAAATTATGTTAAACTATTTTATTAAAAA
+                *************  ****                                         
 
-OZ010728.1_14426988-14427234_-      AGT--CCGA-----------------------------------------
-OZ010733.1_44060036-44060285_-      AGT--CCGATATATATAA--------------------------------
-OZ010728.1_33437344-33437601_-      AGT--CCGATATATATA---------------------------------
-OZ010732.1_657101-657322_+_         AGTGTCCGATATATATAAAAAAAATTTATGTT------------------
-OZ010728.1_62124855-62125115_-      AGT--CCGATATATATAAAAAAAAATTATGTTAAACTATTTTATTAAAAA
-                                    ***  ****                                         
+ApraTR-1        ------------------------------------------------------------
+ApraTR-5        ------------------------------------------------------------
+ApraTR-2        ------------------------------------------------------------
+ApraTR-4        ------------------------------------------------------------
+ApraTR-3        TGCACTATAAAAACTAAAAAATAATTATTTTTTTGGACTACAAATTCCATGGCGTTTTTT
+                                                                            
 
-OZ010728.1_14426988-14427234_-      --------------------------------------------------
-OZ010733.1_44060036-44060285_-      --------------------------------------------------
-OZ010728.1_33437344-33437601_-      --------------------------------------------------
-OZ010732.1_657101-657322_+_         --------------------------------------------------
-OZ010728.1_62124855-62125115_-      TGCACTATAAAAACTAAAAAATAATTATTTTTTTGGACTACAAATTCCAT
-                                                                                      
-
-OZ010728.1_14426988-14427234_-      ---------------------------------------------
-OZ010733.1_44060036-44060285_-      ---------------------------------------------
-OZ010728.1_33437344-33437601_-      ---------------------------------------------
-OZ010732.1_657101-657322_+_         ---------------------------------------------
-OZ010728.1_62124855-62125115_-      GGCGTTTTTTCACTTTAAATAAAATCGTGGAGCGGCGGGATATTT
-                                                                                 
+ApraTR-1        -----------------------------------
+ApraTR-5        -----------------------------------
+ApraTR-2        -----------------------------------
+ApraTR-4        -----------------------------------
+ApraTR-3        CACTTTAAATAAAATCGTGGAGCGGCGGGATATTT
+                                                   
