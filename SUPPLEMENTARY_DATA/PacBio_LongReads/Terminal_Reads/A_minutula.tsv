@@ -1,0 +1,2 @@
+query_name	query_length	query_start	query_end	relative_strand	target_name	target_length	target_start	target_end	num_residue_matches	alignment_block_len	mapping_quality	match
+ERR7123966.1531929	8279	890	8271	+	OV815997.1	41268693	344	5637	3764	7390	24	3764
