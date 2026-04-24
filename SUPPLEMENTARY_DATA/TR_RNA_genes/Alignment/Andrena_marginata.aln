@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+AmarTR-1      ----ATATTTCGTGTCCGTGGTTAACCTAACCTAAACGTAATATACACACAACAACTGTG
+AmarTR-2      atatatatttcatgTCCGTGGTTAACCTAATCTAAA-GAATCATATTACGCACAATTGTG
+                  ******* ****************** ***** * *  ***      **** ****
+
+AmarTR-1      TTGTATAAAATTGGTTTGTTCGCCCTGCTtccaattaaaaattgtaagggTATTCTCATA
+AmarTR-2      TTGTATAAGATTGGTTTGTTCGCCCTGCTtccaattaaaaattgaaagggTATTCTCTCA
+              ******** *********************************** ************  *
+
+AmarTR-1      AACCTCTAC--------TTTTGGAAGTTCGAAGCACATAGCTTTCGTTACATATTCCTCT
+AmarTR-2      TAAACCTCTCTACTTTTTTGGGGAAGTTCGATGAACATAGCTTTCGTTACATGTTCCTTG
+               *   **          **  ********** * ****************** *****  
+
+AmarTR-1      TGAGTTTCcccattttattttacaaagtaTTACAAT------------------------
+AmarTR-2      AA---TTTCCCCTTTTATTTTACAAAGTATTACAATGCATGTACGTAGTTCGATATTCGT
+                   ** *** ************************                        
+
+AmarTR-1      ---------------------------
+AmarTR-2      ATTTCAGCAATAAAACATAAAAGTTCG
+                                         
