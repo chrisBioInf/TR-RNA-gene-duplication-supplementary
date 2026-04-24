@@ -1,0 +1,50 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Apis_mellifera               ----------------TTGCGGGCTACGAGTTGGGTACATACACCCTACAG--TGTTGTG
+Bombus_terrestris            ----------TGTTGAAACGGATTTACGAGTGGCGAAGATCGCTGC--------TAAGGC
+Colletes_gigas               --------------AATAGTGGGTTACGTGGGAACACGAAAGTACCTATTCGGTGCACTT
+Lasioglossum_pauxillum       ---GACAGATGAAATCAGTGGGTTTACGAGACAAGGCACAAAGGTACTTAGAAGGTACAA
+Macropis_europaea            ------------AATCAGTGAGTTTACGAGTGGACACAAAAGCACCGCGGAGGTGCATAG
+Osmia_bicornis_bicornis      GCAAGGACAAGTTTAGAAGGGATTTACGAGTGAAGCATTAAGTGTCCGGAAGGCTCACCG
+                                                     **** *                              
+
+Apis_mellifera               TACCTGTCGGATAACCTAACCTAACCTGACAACATTAGAAAATGTTTATAAACTTTTCTA
+Bombus_terrestris            CAAATCTTCACCGTTGAAACCTAACCCCAATCTAGTTTTTACGTTCTTTTAAGAACTCT-
+Colletes_gigas               CGTG-----TTCGTGGAGACCTAACCCAGACCTAACCCGGCGGCTTATTCCCTATTCCG-
+Lasioglossum_pauxillum       GTTGT----GTTGTGGAGACTTAACCTAACCTAACCTACCCTAG-----------G----
+Macropis_europaea            ATGTG----TTCGTGGTAACCTAACCCAACCTTAACAGATTTGT-GTTTTAC-TCT----
+Osmia_bicornis_bicornis      AGTATGTTTGTGGTACTAACCTAACCATACTGACAGAAATAAAG--GTCCAG-TTTATG-
+                                               ** *****                                  
+
+Apis_mellifera               GTTCCAGGCCCAATTTTCCAGTGAGTCCATCTGCACTGTGGAGTACATATACAATGGTAT
+Bombus_terrestris            GTTGCGTTTAGTCATTGTGATATTATATATCACAATGATGA-------------------
+Colletes_gigas               GAAGCCTGCTTTAG------------------CTCCTAC---------------------
+Lasioglossum_pauxillum       -TTGAATGATAGAA---------------TTCTTTCTATCA-------------------
+Macropis_europaea            -TTGCGAGTTATAC---------------TAATGACAACAA-------------------
+Osmia_bicornis_bicornis      GGTGCCAAATATATTAATGATATTTGACATCCTAATAAAAT-------------------
+                                                                                         
+
+Apis_mellifera               TTCGGCCATTCAATGTATGTACCATTATTTCGTGG-TTTACTTTCTCTCTGGTTCCACAT
+Bombus_terrestris            ---------AGAAAATTTGTAATTTTCTATGTTCTTCTGGTTTTCTCGCCCAGTCCCAGA
+Colletes_gigas               -----------------------GGGAGCAACTAA-ACTGGTTCTTCGCTCTTCACCCCA
+Lasioglossum_pauxillum       -----------------------ATTTAACTAAAA-CTGGTCTGTTCGCCCTACTTCCAG
+Macropis_europaea            -----------------------TGTCCTTTATAC-ATGGTTTGTTCGCCCTGCTTCCAT
+Osmia_bicornis_bicornis      ---------GT---------TCCTTTATTTCTGCT-TTGGTTTCTTCGCCCTGGATCCAA
+                                                                       *  ** *           
+
+Apis_mellifera               TTAAAAAAATGTTGA-CGGGTTTGTCAACG---TACAGAGAGGTCTCGTCCCGC------
+Bombus_terrestris            TGAAAAAAATGCTCGTCTTCATTAAGATGAGGAAAAAGGGTATTCTCGGTAAGTCCGTTT
+Colletes_gigas               G---------------------TGTGCAAAATTGAAAGAGTCTGCACGTAACTCGTATTT
+Lasioglossum_pauxillum       T---------------------AA---AAATAAGTAAGGGTATTCTCGTAAACCCTTTAT
+Macropis_europaea            T---------------------AA---AAAACAGAAAGGGTATTCTCGTAAACTCCCTTT
+Osmia_bicornis_bicornis      T---------------------TAAAACAAATAGTAAGGGTATTCTCGTTAAATCCTTAA
+                                                                 ** *    * **            
+
+Apis_mellifera               -----------------------------TTTTATTTTGACTTATTTTTT
+Bombus_terrestris            CTTTTACAAAGGTAACCTG------------------------AATTTTT
+Colletes_gigas               TTGCAAATTGAACAAACGGTACAGCCCGTTTGGATCAAGTTAACGTTTTT
+Lasioglossum_pauxillum       TTT-----------------------------------------------
+Macropis_europaea            TTACTAGTCTTGAAAT---------------------------AATTTTT
+Osmia_bicornis_bicornis      TTTTTA--------------------------------------------
+                                                                               
